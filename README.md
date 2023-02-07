@@ -5,3 +5,5 @@
 
 
 ## Scalable Computing Resources
+* [Exoshuffle-CloudSort](https://github.com/exoshuffle/cloudsort)
+* [Apache Spark](https://spark.apache.org/)
