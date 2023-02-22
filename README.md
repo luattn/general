@@ -9,4 +9,5 @@
 * [Exoshuffle-CloudSort](https://github.com/exoshuffle/cloudsort)
 * [Apache Spark](https://spark.apache.org/)
 
-## 
+## Machine Learning
+* [Lazy Predict](https://github.com/shankarpandala/lazypredict)
