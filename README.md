@@ -4,6 +4,9 @@
 * [TankBind](https://github.com/luwei0917/TankBind)
 * [Paragraph - Antibody Paratope prediction using Graph Neural Networks with minimal feature vectors](https://github.com/oxpig/Paragraph)
 
+## Antibody Resources
+* [Immunoglobulin Language Model (IgLM)](https://github.com/Graylab/IgLM)
+
 
 ## Scalable Computing Resources
 * [Exoshuffle-CloudSort](https://github.com/exoshuffle/cloudsort)
