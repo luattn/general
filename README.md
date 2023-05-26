@@ -13,6 +13,7 @@
 * [Exoshuffle-CloudSort](https://github.com/exoshuffle/cloudsort)
 * [Apache Spark](https://spark.apache.org/)
 * [Anyscale](https://www.anyscale.com/)
+* [Ray](https://www.ray.io/)
 
 ## Machine Learning
 * [Lazy Predict](https://github.com/shankarpandala/lazypredict)
