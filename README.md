@@ -15,7 +15,7 @@
 * [Anyscale](https://www.anyscale.com/)
 * [Ray](https://www.ray.io/)
 
-## Machine Learning
+## AI/ML/DL
 * [Lazy Predict](https://github.com/shankarpandala/lazypredict)
 * [Alpha Signal](https://alphasignal.ai/)
 * [OpenAI](https://openai.com/)
