@@ -19,4 +19,5 @@
 * [Lazy Predict](https://github.com/shankarpandala/lazypredict)
 * [Alpha Signal](https://alphasignal.ai/)
 * [OpenAI](https://openai.com/)
+* [Meta AI](https://ai.facebook.com/)
 
