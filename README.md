@@ -7,6 +7,7 @@
 ## Antibody Resources
 * [Immunoglobulin Language Model (IgLM)](https://github.com/Graylab/IgLM)
 * [AlphaFold](https://github.com/deepmind/alphafold)
+* [RFDifussion](https://github.com/RosettaCommons/RFdiffusion)
 
 
 ## Scalable Computing Resources
