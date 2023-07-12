@@ -8,6 +8,7 @@
 * [Immunoglobulin Language Model (IgLM)](https://github.com/Graylab/IgLM)
 * [AlphaFold](https://github.com/deepmind/alphafold)
 * [RFDifussion](https://github.com/RosettaCommons/RFdiffusion)
+* [FoldSeek](https://github.com/steineggerlab/foldseek)
 
 
 ## Scalable Computing Resources
