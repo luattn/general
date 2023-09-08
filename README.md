@@ -24,4 +24,5 @@
 * [Alpha Signal](https://alphasignal.ai/)
 * [OpenAI](https://openai.com/)
 * [Meta AI](https://ai.facebook.com/)
+* [Google Cloud Architecture Framework](https://cloud.google.com/architecture/framework)
 
