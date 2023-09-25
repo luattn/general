@@ -29,6 +29,7 @@
 * [PaLM2](https://ai.google/discover/palm2/)
 * [Google Cloud Architecture Framework](https://cloud.google.com/architecture/framework)
 * [DeepSpeed](https://github.com/microsoft/DeepSpeed)
+* [OSMO](https://www.osmo.ai/)
 
 ## React JS
 * [React](https://react.dev/)
