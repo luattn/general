@@ -24,7 +24,11 @@
 * [Alpha Signal](https://alphasignal.ai/)
 * [OpenAI](https://openai.com/)
 * [Meta AI](https://ai.facebook.com/)
+* [LLama](https://ai.google/discover/palm2/)
+* [Google AI](https://ai.google/)
+* [PaLM2](https://ai.google/discover/palm2/)
 * [Google Cloud Architecture Framework](https://cloud.google.com/architecture/framework)
+* [DeepSpeed](https://github.com/microsoft/DeepSpeed)
 
 ## React JS
 * [React](https://react.dev/)
