@@ -30,6 +30,7 @@
 * [Google Cloud Architecture Framework](https://cloud.google.com/architecture/framework)
 * [DeepSpeed](https://github.com/microsoft/DeepSpeed)
 * [OSMO](https://www.osmo.ai/)
+* [XGBoost AI - Scalable and Flexible Gradient Boosting](https://xgboost.ai/)
 
 ## React JS
 * [React](https://react.dev/)
