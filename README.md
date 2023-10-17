@@ -50,5 +50,6 @@
   * [React Navigation](https://reactnavigation.org/)
   * [React Native Navigation](https://github.com/wix/react-native-navigation)
   * [React-Native-Router-Flux](https://github.com/aksonov/react-native-router-flux)
+  * [React Native Reanimated](https://github.com/software-mansion/react-native-reanimated)
 ## [DEV Community](https://dev.to/)
 * [Useful CSS Resources](https://dev.to/lissy93/super-useful-css-resources-1ba3)
