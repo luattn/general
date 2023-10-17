@@ -50,6 +50,11 @@
   * [React Navigation](https://reactnavigation.org/)
   * [React Native Navigation](https://github.com/wix/react-native-navigation)
   * [React-Native-Router-Flux](https://github.com/aksonov/react-native-router-flux)
-  * [React Native Reanimated](https://github.com/software-mansion/react-native-reanimated)
+  * React Native Animation Libraries
+    * [React Native Reanimated](https://github.com/software-mansion/react-native-reanimated)
+    * [React Spring](https://www.react-spring.dev/)
+    * [Popmotion](https://github.com/popmotion/popmotion)
+    * [React Native Animatable](https://github.com/oblador/react-native-animatable)
+    * [React Native Shared Element](https://github.com/IjzerenHein/react-native-shared-element)
 ## [DEV Community](https://dev.to/)
 * [Useful CSS Resources](https://dev.to/lissy93/super-useful-css-resources-1ba3)
