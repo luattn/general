@@ -56,5 +56,6 @@
     * [Popmotion](https://github.com/popmotion/popmotion)
     * [React Native Animatable](https://github.com/oblador/react-native-animatable)
     * [React Native Shared Element](https://github.com/IjzerenHein/react-native-shared-element)
+   * [Awesome React Native - curates the best React Native libraries, tools, tutorials, articles and more](https://github.com/jondot/awesome-react-native#forms)
 ## [DEV Community](https://dev.to/)
 * [Useful CSS Resources](https://dev.to/lissy93/super-useful-css-resources-1ba3)
