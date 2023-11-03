@@ -29,6 +29,7 @@
 * [OpenAI](https://openai.com/)
 * [Meta AI](https://ai.facebook.com/)
 * [LLama](https://ai.google/discover/palm2/)
+  * [Getting started with Llama](https://ai.meta.com/llama/get-started/?utm_source=linkedin&utm_medium=organic_social&utm_campaign=llama2&utm_content=image) 
 * [Google AI](https://ai.google/)
 * [PaLM2](https://ai.google/discover/palm2/)
 * [Google Cloud Architecture Framework](https://cloud.google.com/architecture/framework)
