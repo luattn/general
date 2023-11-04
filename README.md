@@ -38,8 +38,8 @@
 * [XGBoost AI - Scalable and Flexible Gradient Boosting](https://xgboost.ai/)
 * [Directed Message Passing Based on Attention for Prediction of Molecular Properties](https://github.com/GongCHEN-1995/D-GATs)
 
-## React JS
-* [React](https://react.dev/)
+## React
+* [React JS](https://react.dev/)
   * [Curated React Components and Libraries](https://github.com/brillout/awesome-react-components)
   * [Github Hit for React's Libraries](https://github.com/search?q=react+libraries&type=repositories&s=stars&o=desc)
   * [React Query](https://github.com/TanStack/query)
