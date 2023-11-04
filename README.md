@@ -42,7 +42,7 @@
 * [React JS](https://react.dev/)
   * [Curated React Components and Libraries](https://github.com/brillout/awesome-react-components)
     * ### Top ranked
-    * [Styled-components](https://styled-components.com/)
+      * [Styled-components](https://styled-components.com/)
   * [Github Hit for React's Libraries](https://github.com/search?q=react+libraries&type=repositories&s=stars&o=desc)
   * [React Query](https://github.com/TanStack/query)
 * [React Native](https://reactnative.dev/)
