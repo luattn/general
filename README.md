@@ -36,6 +36,7 @@
 * [DeepSpeed](https://github.com/microsoft/DeepSpeed)
 * [OSMO](https://www.osmo.ai/)
 * [XGBoost AI - Scalable and Flexible Gradient Boosting](https://xgboost.ai/)
+* [Directed Message Passing Based on Attention for Prediction of Molecular Properties](https://github.com/GongCHEN-1995/D-GATs)
 
 ## React JS
 * [React](https://react.dev/)
