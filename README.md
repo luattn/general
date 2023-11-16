@@ -62,6 +62,7 @@
   * [Awesome React Native UI](https://github.com/madhavanmalolan/awesome-reactnative-ui)
   * [React Native Community](https://github.com/react-native-community?q=&type=all&language=&sort=stargazers)
   * [Vision Camera](https://react-native-vision-camera.com)
+  * [Gesture Handler](https://github.com/software-mansion/react-native-gesture-handler)
   * [React Navigation](https://reactnavigation.org/)
   * [React Native Navigation](https://github.com/wix/react-native-navigation)
   * [React-Native-Router-Flux](https://github.com/aksonov/react-native-router-flux)
