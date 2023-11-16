@@ -61,6 +61,7 @@
   * [React Native Material](https://rn-material.js.org/)
   * [Awesome React Native UI](https://github.com/madhavanmalolan/awesome-reactnative-ui)
   * [React Native Community](https://github.com/react-native-community?q=&type=all&language=&sort=stargazers)
+  * [Vision Camera](https://react-native-vision-camera.com)
   * [React Navigation](https://reactnavigation.org/)
   * [React Native Navigation](https://github.com/wix/react-native-navigation)
   * [React-Native-Router-Flux](https://github.com/aksonov/react-native-router-flux)
