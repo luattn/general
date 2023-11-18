@@ -41,6 +41,7 @@
 
 ## React
 * [React JS](https://react.dev/)
+  * [Curated Open Source React Native Apps](https://github.com/ReactNativeNews/React-Native-Apps)
   * [Curated React Components and Libraries](https://github.com/brillout/awesome-react-components)
   * Top ranked
     * [Boostrap](https://getbootstrap.com/) 
