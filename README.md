@@ -38,6 +38,9 @@
 * [OSMO](https://www.osmo.ai/)
 * [XGBoost AI - Scalable and Flexible Gradient Boosting](https://xgboost.ai/)
 * [Directed Message Passing Based on Attention for Prediction of Molecular Properties](https://github.com/GongCHEN-1995/D-GATs)
+* [LangChain AI](https://github.com/langchain-ai)
+  * [LangChain AI Python](https://github.com/langchain-ai/langchain)
+  * [LangChain AI JavaScript/TypeScript](https://github.com/langchain-ai/langchainjs)  
 
 ## React
 * [React JS](https://react.dev/)
