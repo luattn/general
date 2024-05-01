@@ -76,7 +76,8 @@
     * [Popmotion](https://github.com/popmotion/popmotion)
     * [React Native Animatable](https://github.com/oblador/react-native-animatable)
     * [React Native Shared Element](https://github.com/IjzerenHein/react-native-shared-element)
-    * [Awesome React Native - curates the best React Native libraries, tools, tutorials, articles and more](https://github.com/jondot/awesome-react-native#forms)
+    * [Awesome React Native - curates the best React Native libraries, tools, tutorials, articles and more](https://github.com/jondot/awesome-react-native)
+    * [Absolutely Awesome React Components & Libraries](https://github.com/brillout/awesome-react-components)
   * State Management Libraries
     * [MobX](https://github.com/mobxjs/mobx)  
 ## [DEV Community](https://dev.to/)
